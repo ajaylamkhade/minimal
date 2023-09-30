@@ -1,6 +1,13 @@
-title: Minimal theme
+title: <p align="center"> Ajay LAMKHADE </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+<p align="center">
+<a href="https://www.linkedin.com/in/ajay-lamkhade-4410a03a/">LinkedIn</a>
+
+<br>
+ I'm working as a Java Develpoper in Worldline Global Services.
+</br>
+
+</p>
+
 theme: jekyll-theme-minimal
